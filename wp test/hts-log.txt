@@ -1,0 +1,164 @@
+HTTrack3.49-2 launched on Thu, 12 May 2022 16:21:20 at https://supesutoken.wpcomstaging.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://supesutoken.wpcomstaging.com/ -O "/Users/oneilbenjamin/websites/wp test" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:22:20	Warning: 	Note: due to secure.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+16:22:32	Warning: 	Link s.w.org/ not scanned (follow robots meta tag)
+16:22:33	Warning: 	Moved Permanently for widgets.wp.com/
+16:22:33	Warning: 	File has moved from widgets.wp.com/ to https://wordpress.com
+16:22:34	Warning: 	Found for jetpack.wordpress.com/
+16:22:34	Warning: 	File has moved from jetpack.wordpress.com/ to http://jetpack.com/
+16:22:35	Warning: 	Moved Permanently for s0.wp.com/
+16:22:35	Warning: 	File has moved from s0.wp.com/ to https://wordpress.com
+16:22:36	Warning: 	Moved Permanently for public-api.wordpress.com/robots.txt
+16:22:36	Warning: 	Redirected link is identical because of 'URL Hack' option: public-api.wordpress.com/robots.txt and https://public-api.wordpress.com/robots.txt
+16:22:36	Warning: 	Warning moved treated for public-api.wordpress.com/robots.txt (real one is https://public-api.wordpress.com/robots.txt)
+16:22:36	Warning: 	Moved Permanently for public-api.wordpress.com/
+16:22:36	Warning: 	Redirected link is identical because of 'URL Hack' option: public-api.wordpress.com/ and https://public-api.wordpress.com/
+16:22:36	Warning: 	File has moved from public-api.wordpress.com/ to https://public-api.wordpress.com/
+16:22:37	Warning: 	Note: due to 0.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+16:22:37	Warning: 	Found for 0.gravatar.com/
+16:22:37	Warning: 	File has moved from 0.gravatar.com/ to https://en.gravatar.com/
+16:22:38	Warning: 	Note: due to 1.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+16:22:38	Warning: 	Found for 1.gravatar.com/
+16:22:38	Warning: 	File has moved from 1.gravatar.com/ to https://en.gravatar.com/
+16:22:39	Warning: 	Note: due to 2.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+16:22:39	Warning: 	Found for 2.gravatar.com/
+16:22:39	Warning: 	File has moved from 2.gravatar.com/ to https://en.gravatar.com/
+16:22:40	Error: 	"Bad Request" (400) at link i0.wp.com/ (from https://supesutoken.wpcomstaging.com/)
+16:22:41	Warning: 	Moved Permanently for c0.wp.com/robots.txt
+16:22:41	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/robots.txt and https://c0.wp.com/robots.txt
+16:22:41	Warning: 	Warning moved treated for c0.wp.com/robots.txt (real one is https://c0.wp.com/robots.txt)
+16:22:41	Warning: 	Moved Permanently for c0.wp.com/
+16:22:41	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/ and https://c0.wp.com/
+16:22:41	Warning: 	File has moved from c0.wp.com/ to https://c0.wp.com/
+16:22:59	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/Trident/ (from https://supesutoken.wpcomstaging.com/)
+16:23:00	Warning: 	Moved Permanently for blog.gravatar.com/robots.txt
+16:23:00	Warning: 	Redirected link is identical because of 'URL Hack' option: blog.gravatar.com/robots.txt and https://blog.gravatar.com/robots.txt
+16:23:00	Warning: 	Warning moved treated for blog.gravatar.com/robots.txt (real one is https://blog.gravatar.com/robots.txt)
+16:23:00	Warning: 	Moved Permanently for blog.gravatar.com/feed/
+16:23:00	Warning: 	Redirected link is identical because of 'URL Hack' option: blog.gravatar.com/feed/ and https://blog.gravatar.com/feed/
+16:23:00	Warning: 	File has moved from blog.gravatar.com/feed/ to https://blog.gravatar.com/feed/
+16:23:00	Warning: 	Warning: store text/html without scan: /Users/oneilbenjamin/websites/wp test/blog.gravatar.com/feed/index.html
+16:23:01	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/fonts.googleapis.com/css32b6.css
+16:23:02	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/fonts.googleapis.com/css2db7d.css
+16:23:02	Warning: 	Moved Permanently for https://supesutoken.wpcomstaging.com/?p=7
+16:23:02	Warning: 	File has moved from https://supesutoken.wpcomstaging.com/?p=7 to https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/
+16:23:02	Error: 	"Method Not Allowed" (405) at link https://supesutoken.wpcomstaging.com/xmlrpc.php (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/)
+16:23:03	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/Trident/ (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/)
+16:23:04	Warning: 	Link https://jetpack.wordpress.com/jetpack-comment/?blogid=193691210&postid=7&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=identicon&greeting=Leave+a+Reply&jetpack_comments_nonce=e47dda7edb&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=11.0-a.5&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=6051bdd9452c8c79efa59118ffafcf3c499d5ae9 not scanned (follow robots meta tag)
+16:23:04	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/category/uncategorized/Trident/ (from https://supesutoken.wpcomstaging.com/category/uncategorized/)
+16:23:04	Warning: 	Moved Permanently for https://supesutoken.wpcomstaging.com/?p=8
+16:23:04	Warning: 	File has moved from https://supesutoken.wpcomstaging.com/?p=8 to https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/
+16:23:04	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/Trident/ (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/)
+16:23:04	Warning: 	Link https://jetpack.wordpress.com/jetpack-comment/?blogid=193691210&postid=8&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=identicon&greeting=Leave+a+Reply&jetpack_comments_nonce=ada92dc961&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=11.0-a.5&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=84afbde1e1fa488c8c537e7aa6248acb4df0d6a4 not scanned (follow robots meta tag)
+16:23:04	Warning: 	Moved Permanently for https://supesutoken.wpcomstaging.com/?p=9
+16:23:04	Warning: 	File has moved from https://supesutoken.wpcomstaging.com/?p=9 to https://supesutoken.wpcomstaging.com/2021/05/26/example-post/
+16:23:04	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/2021/05/26/example-post/Trident/ (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post/)
+16:23:04	Warning: 	Link https://jetpack.wordpress.com/jetpack-comment/?blogid=193691210&postid=9&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=identicon&greeting=Leave+a+Reply&jetpack_comments_nonce=ddeab78a8a&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=11.0-a.5&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=6dbecc7fff2d8ddbe43697f38fee064338a9c579 not scanned (follow robots meta tag)
+16:23:04	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/author/dexbencrypto/Trident/ (from https://supesutoken.wpcomstaging.com/author/dexbencrypto/)
+16:23:04	Warning: 	HTML file (632 bytes) retransferred due to lack of cache: public-api.wordpress.com/
+16:23:04	Warning: 	HTML file (11863 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/feed/
+16:23:04	Warning: 	HTML file (782 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/comments/feed/
+16:23:05	Warning: 	Moved Permanently for public-api.wordpress.com/
+16:23:05	Warning: 	Redirected link is identical because of 'URL Hack' option: public-api.wordpress.com/ and https://public-api.wordpress.com/
+16:23:05	Warning: 	File has moved from public-api.wordpress.com/ to https://public-api.wordpress.com/
+16:23:05	Warning: 	HTML file (602 bytes) retransferred due to lack of cache: c0.wp.com/
+16:23:06	Warning: 	Moved Permanently for c0.wp.com/
+16:23:06	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/ and https://c0.wp.com/
+16:23:06	Warning: 	File has moved from c0.wp.com/ to https://c0.wp.com/
+16:23:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js?ver=5.9.3
+16:23:07	Warning: 	HTML file (305477 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/wp-json/
+16:23:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/zilla-likes.js?ver=5.9.3
+16:23:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/modules/videopress/js/videopress-token-bridge.js?ver=6
+16:23:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-includes/wlwmanifest.xml
+16:23:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/xmlrpc.php?rsd
+16:23:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://c0.wp.com/c/5.9.3/wp-includes/js/dist/vendor/regenerator-runtime.min.js
+16:23:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://c0.wp.com/c/5.9.3/wp-includes/js/dist/vendor/wp-polyfill.min.js
+16:23:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001
+16:23:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/assets/js/bignumber.min.js?ver=8.0.2
+16:23:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+16:23:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/assets/js/web3modal.min.js?ver=1.9.5
+16:23:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/assets/js/web3.min.js?ver=1.5.1
+16:23:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/assets/js/web3-provider.min.js?ver=1.7.0
+16:23:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/assets/js/fortmatic.js?ver=2.0.6
+16:23:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/lib/farmfactory.js?ver=220416-174204
+16:23:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=11.0-a.5
+16:23:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&ver=f5a9d453c5a79e347f9ee90353c1abdf
+16:23:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&ver=25eafb3f2ad93939cdfaaa7782cb8b85
+16:23:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/js_composer_front.min.js?ver=1.0.0
+16:23:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/parallax.min.js
+16:23:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/photoswipe.min.js?ver=4.1.1
+16:23:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/farmfactory/assets/js/token-price.js?ver=1.0.0
+16:23:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.4-wpcom
+16:23:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.4-wpcom
+16:23:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/photoswipe-ui-default.min.js?ver=4.1.1
+16:23:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://c0.wp.com/c/5.9.3/wp-includes/js/imagesloaded.min.js
+16:23:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/isotope.pkgd.min.js?ver=3.0.6
+16:23:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/pt-scripts.js?ver=1.0.0
+16:23:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/js/load-posts.js?ver=1.0.0
+16:23:39	Warning: 	HTML file (854 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/feed/
+16:23:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/wp/v2/posts/7
+16:23:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupesutoken.wpcomstaging.com%2F2021%2F05%2F26%2Fexample-post-3%2F
+16:23:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js?ver=11.0-a.5
+16:23:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://c0.wp.com/c/5.9.3/wp-includes/js/comment-reply.min.js
+16:23:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupesutoken.wpcomstaging.com%2F2021%2F05%2F26%2Fexample-post-3%2F&format=xml
+16:23:43	Warning: 	HTML file (11930 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/category/uncategorized/feed/
+16:23:43	Warning: 	HTML file (854 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/feed/
+16:23:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/wp/v2/categories/1
+16:23:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/wp/v2/posts/8
+16:23:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupesutoken.wpcomstaging.com%2F2021%2F05%2F26%2Fexample-post-2%2F
+16:23:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupesutoken.wpcomstaging.com%2F2021%2F05%2F26%2Fexample-post-2%2F&format=xml
+16:23:47	Warning: 	HTML file (850 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/2021/05/26/example-post/feed/
+16:23:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/wp/v2/posts/9
+16:23:50	Warning: 	HTML file (11925 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/author/dexbencrypto/feed/
+16:23:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupesutoken.wpcomstaging.com%2F2021%2F05%2F26%2Fexample-post%2F&format=xml
+16:23:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupesutoken.wpcomstaging.com%2F2021%2F05%2F26%2Fexample-post%2F
+16:23:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-json/wp/v2/users/206912282
+16:23:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/wp-live-chat-software-for-wordpress/plugin_files/fonts/livechat-icons.eot
+16:23:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/wp-live-chat-software-for-wordpress/plugin_files/fonts/livechat-icons.ttf
+16:23:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+16:23:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+16:23:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://supesutoken.wpcomstaging.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+16:24:09	Warning: 	HTML file (103272 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/
+16:24:10	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/s.gravatar.com/dist/css/style.min8d5e.css
+16:24:10	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/s.gravatar.com/dist/css/profile.min8d5e.css
+16:24:10	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/s.gravatar.com/dist/css/jquery.Jcrop.0.9.12.min8d5e.css
+16:24:10	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/secure.gravatar.com/js/jcarousel/lib/jquery.jcarousel.css
+16:24:10	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/secure.gravatar.com/js/jcarousel/skins/tango/skin.css
+16:24:10	Warning: 	HTML file (422 bytes) retransferred due to lack of cache: blog.gravatar.com/feed/
+16:24:12	Warning: 	Moved Permanently for blog.gravatar.com/feed/
+16:24:12	Warning: 	Redirected link is identical because of 'URL Hack' option: blog.gravatar.com/feed/ and https://blog.gravatar.com/feed/
+16:24:12	Warning: 	File has moved from blog.gravatar.com/feed/ to https://blog.gravatar.com/feed/
+16:24:12	Warning: 	Warning: store text/html without scan: /Users/oneilbenjamin/websites/wp test/blog.gravatar.com/feed/index.html
+16:24:12	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/s0.wp.com/i/noticons/noticons.css
+16:24:12	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/wp test/s.gravatar.com/dist/css/homepage.min8d5e.css
+16:24:12	Warning: 	Warning: store image/svg+xml without scan: /Users/oneilbenjamin/websites/wp test/secure.gravatar.com/images/logo-crowdsignal.svg
+16:24:14	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/?p=7
+16:24:15	Warning: 	Moved Permanently for https://supesutoken.wpcomstaging.com/?p=7
+16:24:15	Warning: 	File has moved from https://supesutoken.wpcomstaging.com/?p=7 to https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/
+16:24:16	Error: 	"Method Not Allowed" (405) at link https://supesutoken.wpcomstaging.com/xmlrpc.php (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post-3/)
+16:24:17	Warning: 	HTML file (101116 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/category/uncategorized/Trident/
+16:24:18	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/category/uncategorized/Trident/ (from https://supesutoken.wpcomstaging.com/category/uncategorized/)
+16:24:18	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/?p=8
+16:24:19	Warning: 	Moved Permanently for https://supesutoken.wpcomstaging.com/?p=8
+16:24:19	Warning: 	File has moved from https://supesutoken.wpcomstaging.com/?p=8 to https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/
+16:24:19	Warning: 	HTML file (101116 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/Trident/
+16:24:20	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/Trident/ (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post-2/)
+16:24:20	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/?p=9
+16:24:21	Warning: 	Moved Permanently for https://supesutoken.wpcomstaging.com/?p=9
+16:24:21	Warning: 	File has moved from https://supesutoken.wpcomstaging.com/?p=9 to https://supesutoken.wpcomstaging.com/2021/05/26/example-post/
+16:24:21	Warning: 	HTML file (101116 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/2021/05/26/example-post/Trident/
+16:24:22	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/2021/05/26/example-post/Trident/ (from https://supesutoken.wpcomstaging.com/2021/05/26/example-post/)
+16:24:22	Warning: 	HTML file (101116 bytes) retransferred due to lack of cache: https://supesutoken.wpcomstaging.com/author/dexbencrypto/Trident/
+16:24:23	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/author/dexbencrypto/Trident/ (from https://supesutoken.wpcomstaging.com/author/dexbencrypto/)
+16:24:23	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/imgs/preloader.gif (from https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/css/photoswipe.css)
+16:24:23	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/imgs/mask-in-circle-right.svg (from https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/css/pt-addons.css?ver=5.9.3)
+16:24:23	Error: 	"Not Found" (404) at link https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/imgs/mask-in-circle-left.svg (from https://supesutoken.wpcomstaging.com/wp-content/plugins/pt-plaxer-addons/assets/css/pt-addons.css?ver=5.9.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 3 seconds : 154 links scanned, 174 files written (10864286 bytes overall) [4525336 bytes received at 24728 bytes/sec], 10917419 bytes transferred using HTTP compression in 166 files, ratio 30%, 2.2 requests per connection
+(16 errors, 137 warnings, 0 messages)

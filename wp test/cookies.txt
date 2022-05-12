@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+supesutoken.wpcomstaging.com	TRUE	/	FALSE	1999999999	PHPSESSID	babfe390b9add5be58e00d62620d6615
+.wordpress.com	TRUE	/	FALSE	1999999999	wpcom_highlander_3pc_check	1
+jetpack.wordpress.com	TRUE	/	FALSE	1999999999	SameSite	None
+
